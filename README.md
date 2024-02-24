@@ -21,13 +21,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop layout](./screenshot/Desktop-Layout-(1).png)
+![Desktop layout](./screenshot/desktopLayout.png)
 
-![Mobile layout 1](./screenshot/Mobile-layout-1.png)
+![Mobile layout 1](./screenshot/mobileLayout1.png)
 
-![Mobile layout 2](./screenshot/Mobile-layout-2.png)
+![Mobile layout 2](./screenshot/mobileLayout2.png)
 
-![Mobile layout 3](./screenshot/Mobile-layout-3.png)
+![Mobile layout 3](./screenshot/mobileLayout3.png)
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/abno-24/3-column-preview-card-component)
